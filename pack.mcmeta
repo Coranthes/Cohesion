@@ -1,6 +1,6 @@
 {
-    "pack": {
-        "description": "Fill me in in pack.meta!",
-        "pack_format": 5
-    }
+      "pack": {
+        "pack_format": 15,
+        "description": "Cohesion Resource Pack"
+  }
 }
