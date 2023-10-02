@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="log tops">
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="wood planks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/pack.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/bamboo_planks.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651290867278</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="wood planks">
+      <created>1696143588941</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696143588941</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,7 +132,8 @@
     <MESSAGE value="planks" />
     <MESSAGE value="logs and more logs" />
     <MESSAGE value="log tops" />
-    <option name="LAST_COMMIT_MESSAGE" value="log tops" />
+    <MESSAGE value="wood planks" />
+    <option name="LAST_COMMIT_MESSAGE" value="wood planks" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
