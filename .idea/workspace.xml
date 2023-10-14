@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Blackstone">
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="magma test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -280,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697169348577</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="magma test">
+      <created>1697227998550</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1697227998550</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,7 +302,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="wood planks" />
     <MESSAGE value="warped and crimson wood" />
     <MESSAGE value="Various wood logs" />
     <MESSAGE value="Crafting table" />
@@ -320,7 +326,8 @@
     <MESSAGE value="lodestone and smoker" />
     <MESSAGE value="Observer and some bricks" />
     <MESSAGE value="Blackstone" />
-    <option name="LAST_COMMIT_MESSAGE" value="Blackstone" />
+    <MESSAGE value="magma test" />
+    <option name="LAST_COMMIT_MESSAGE" value="magma test" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
