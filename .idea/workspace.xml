@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Candles">
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/black_candle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/black_candle_lit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/blue_candle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/blue_candle_lit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/brown_candle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/brown_candle_lit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/candle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/candle_lit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/cyan_candle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/cyan_candle_lit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/gray_candle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/gray_candle_lit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/green_candle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/green_candle_lit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/light_blue_candle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/light_blue_candle_lit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/light_gray_candle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/light_gray_candle_lit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/lime_candle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/lime_candle_lit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/magenta_candle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/magenta_candle_lit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/orange_candle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/orange_candle_lit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/pink_candle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/pink_candle_lit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/purple_candle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/purple_candle_lit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/red_candle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/red_candle_lit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/white_candle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/white_candle_lit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/yellow_candle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/yellow_candle_lit.png" afterDir="false" />
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="torches and lanterns">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -412,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697521368412</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="torches and lanterns">
+      <created>1697588724781</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1697588724781</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -427,7 +400,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Portal Frame, Iron, gold, and lapis blocks" />
     <MESSAGE value="More flowers, copper" />
     <MESSAGE value="Froglight" />
     <MESSAGE value="Mostly dirt" />
@@ -452,7 +424,8 @@
     <MESSAGE value="Random blocks" />
     <MESSAGE value="More stone mostly" />
     <MESSAGE value="Candles" />
-    <option name="LAST_COMMIT_MESSAGE" value="Candles" />
+    <MESSAGE value="torches and lanterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="torches and lanterns" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
