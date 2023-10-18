@@ -4,8 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Potential texture changes">
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/entity/slime/slime.png" afterDir="false" />
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="I. Don't. Know!">
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/dragon_egg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/prismarine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/prismarine.png.mcmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/spore_blossom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/spore_blossom_base.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_saw.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_front_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_saw.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_saw.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +25,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="Tree-Stuff" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -39,14 +46,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/josa/IdeaProjects/Cohesion/assets/minecraft/textures/entity",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/media/josa/Storage/intellij/Cohesion/assets&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets" />
@@ -81,6 +88,111 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
+    </task>
+    <task id="LOCAL-00001" summary="New graphics">
+      <created>1651006171519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651006171519</updated>
+    </task>
+    <task id="LOCAL-00002" summary="planks">
+      <created>1651287887017</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651287887017</updated>
+    </task>
+    <task id="LOCAL-00003" summary="logs and more logs">
+      <created>1651288597934</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651288597934</updated>
+    </task>
+    <task id="LOCAL-00004" summary="log tops">
+      <created>1651290867278</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651290867278</updated>
+    </task>
+    <task id="LOCAL-00005" summary="wood planks">
+      <created>1696143588941</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696143588941</updated>
+    </task>
+    <task id="LOCAL-00006" summary="warped and crimson wood">
+      <created>1696207733627</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696207733627</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Various wood logs">
+      <created>1696222364329</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696222364329</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Crafting table">
+      <created>1696291952077</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696291952077</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Villager POI blocks">
+      <created>1696301837680</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696301837680</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Bee stuff">
+      <created>1696389273858</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696389273858</updated>
+    </task>
+    <task id="LOCAL-00011" summary="More cherry?">
+      <created>1696455150938</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696455150938</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Flowers so far">
+      <created>1696465952829</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696465952829</updated>
+    </task>
+    <task id="LOCAL-00013" summary="oxidized copper">
+      <created>1696478340610</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696478340610</updated>
+    </task>
+    <task id="LOCAL-00014" summary="More copper">
+      <created>1696483960662</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696483960662</updated>
+    </task>
+    <task id="LOCAL-00015" summary="emerald">
+      <created>1696487293916</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696487293916</updated>
     </task>
     <task id="LOCAL-00016" summary="Villager tables">
       <created>1696554665620</created>
@@ -292,140 +404,7 @@
       <option name="project" value="LOCAL" />
       <updated>1697597789880</updated>
     </task>
-    <task id="LOCAL-00046" summary="Items frames, hopper">
-      <created>1697600878118</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1697600878118</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Hopefully fix version #">
-      <created>1697602398381</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1697602398381</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Hopefully fix version #">
-      <created>1697602848891</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1697602848891</updated>
-    </task>
-    <task id="LOCAL-00049" summary="oak">
-      <created>1698302929064</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1698302929064</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Door items pt one">
-      <created>1698959801506</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1698959801506</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Doors">
-      <created>1699053244648</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1699053244648</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Dark oak doors">
-      <created>1699053354904</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1699053354904</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Chiseled">
-      <created>1699144297424</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1699144297424</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Emeralds and stone cutter that may need fixing later">
-      <created>1699239085074</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1699239085074</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Restore files">
-      <created>1699240277763</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1699240277763</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Gems and stuff">
-      <created>1699315382546</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1699315382546</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Diamond Armor">
-      <created>1699317305312</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1699317305312</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Random things">
-      <created>1699755470215</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1699755470215</updated>
-    </task>
-    <task id="LOCAL-00059" summary="Dyes">
-      <created>1699840454990</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1699840454990</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Dyes">
-      <created>1699841993168</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1699841993169</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Remaining Dye">
-      <created>1699848334904</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1699848334905</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Remaining Dye">
-      <created>1699848343916</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1699848343916</updated>
-    </task>
-    <task id="LOCAL-00063" summary="Ancient &amp; Amethyst">
-      <created>1699925882887</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1699925882888</updated>
-    </task>
-    <task id="LOCAL-00064" summary="Potential texture changes">
-      <created>1699997794999</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1699997795000</updated>
-    </task>
-    <option name="localTasksCounter" value="65" />
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -440,6 +419,22 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Froglight" />
+    <MESSAGE value="Mostly dirt" />
+    <MESSAGE value="Furnace and hay block" />
+    <MESSAGE value="Random stuff" />
+    <MESSAGE value="Glass Fixes" />
+    <MESSAGE value="Bamboo and deepslate" />
+    <MESSAGE value="lodestone and smoker" />
+    <MESSAGE value="Observer and some bricks" />
+    <MESSAGE value="Blackstone" />
+    <MESSAGE value="magma test" />
+    <MESSAGE value="rails" />
+    <MESSAGE value="debris and bamboo" />
+    <MESSAGE value="cactus and beacon" />
+    <MESSAGE value="Anvil and composter" />
+    <MESSAGE value="Chiseled stuff and dried kelp" />
+    <MESSAGE value="Dirt and stone stuff" />
     <MESSAGE value="It's a cake!" />
     <MESSAGE value="Small cartography table fix" />
     <MESSAGE value="Glass fix" />
@@ -449,23 +444,7 @@
     <MESSAGE value="Candles" />
     <MESSAGE value="torches and lanterns" />
     <MESSAGE value="I. Don't. Know!" />
-    <MESSAGE value="Items frames, hopper" />
-    <MESSAGE value="Hopefully fix version #" />
-    <MESSAGE value="oak" />
-    <MESSAGE value="Door items pt one" />
-    <MESSAGE value="Doors" />
-    <MESSAGE value="Dark oak doors" />
-    <MESSAGE value="Chiseled" />
-    <MESSAGE value="Emeralds and stone cutter that may need fixing later" />
-    <MESSAGE value="Restore files" />
-    <MESSAGE value="Gems and stuff" />
-    <MESSAGE value="Diamond Armor" />
-    <MESSAGE value="Random things" />
-    <MESSAGE value="Dyes" />
-    <MESSAGE value="Remaining Dye" />
-    <MESSAGE value="Ancient &amp; Amethyst" />
-    <MESSAGE value="Potential texture changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Potential texture changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="I. Don't. Know!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
