@@ -1,7 +1,4 @@
-# Minecraft Resource Pack Template
-This is template repo for Minecraft resource packs.</br>
-Click "Use this template" to make your own pack utilizing Git.</br>
-Don't forget to change the license, and this part of the README file afterward!
+Cohesion Resource Packs can be used together or individually.  Created with the intention of use with svenhjol's mods, Charm and Strange. 
 
 # How to Use:
 To use this as a resource pack, click "Clone or download" then "Download ZIP" and place it in
