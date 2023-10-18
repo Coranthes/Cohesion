@@ -4,7 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="magma test">
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Candles">
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/black_candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/black_candle_lit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/blue_candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/blue_candle_lit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/brown_candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/brown_candle_lit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/candle_lit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/cyan_candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/cyan_candle_lit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/gray_candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/gray_candle_lit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/green_candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/green_candle_lit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/light_blue_candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/light_blue_candle_lit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/light_gray_candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/light_gray_candle_lit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/lime_candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/lime_candle_lit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/magenta_candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/magenta_candle_lit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/orange_candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/orange_candle_lit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/pink_candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/pink_candle_lit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/purple_candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/purple_candle_lit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/red_candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/red_candle_lit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/white_candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/white_candle_lit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/yellow_candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/yellow_candle_lit.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -287,7 +321,98 @@
       <option name="project" value="LOCAL" />
       <updated>1697227998550</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="rails">
+      <created>1697260827999</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1697260827999</updated>
+    </task>
+    <task id="LOCAL-00032" summary="debris and bamboo">
+      <created>1697260870233</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1697260870233</updated>
+    </task>
+    <task id="LOCAL-00033" summary="cactus and beacon">
+      <created>1697265105353</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1697265105353</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Anvil and composter">
+      <created>1697342374006</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1697342374006</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Chiseled stuff and dried kelp">
+      <created>1697400402930</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1697400402930</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Dirt and stone stuff">
+      <created>1697416587590</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1697416587590</updated>
+    </task>
+    <task id="LOCAL-00037" summary="It's a cake!">
+      <created>1697427021058</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1697427021058</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Small cartography table fix">
+      <created>1697428055657</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1697428055657</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Glass fix">
+      <created>1697429316835</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1697429316835</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Bamboo overhaul">
+      <created>1697433359385</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1697433359385</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Random blocks">
+      <created>1697435536207</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1697435536207</updated>
+    </task>
+    <task id="LOCAL-00042" summary="More stone mostly">
+      <created>1697502489152</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1697502489152</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Candles">
+      <created>1697521368412</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1697521368412</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,19 +427,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="warped and crimson wood" />
-    <MESSAGE value="Various wood logs" />
-    <MESSAGE value="Crafting table" />
-    <MESSAGE value="Villager POI blocks" />
-    <MESSAGE value="Bee stuff" />
-    <MESSAGE value="More cherry?" />
-    <MESSAGE value="Flowers so far" />
-    <MESSAGE value="oxidized copper" />
-    <MESSAGE value="More copper" />
-    <MESSAGE value="emerald" />
-    <MESSAGE value="Villager tables" />
-    <MESSAGE value="Enchanting and fletching tables" />
-    <MESSAGE value="More flowers" />
     <MESSAGE value="Portal Frame, Iron, gold, and lapis blocks" />
     <MESSAGE value="More flowers, copper" />
     <MESSAGE value="Froglight" />
@@ -327,7 +439,20 @@
     <MESSAGE value="Observer and some bricks" />
     <MESSAGE value="Blackstone" />
     <MESSAGE value="magma test" />
-    <option name="LAST_COMMIT_MESSAGE" value="magma test" />
+    <MESSAGE value="rails" />
+    <MESSAGE value="debris and bamboo" />
+    <MESSAGE value="cactus and beacon" />
+    <MESSAGE value="Anvil and composter" />
+    <MESSAGE value="Chiseled stuff and dried kelp" />
+    <MESSAGE value="Dirt and stone stuff" />
+    <MESSAGE value="It's a cake!" />
+    <MESSAGE value="Small cartography table fix" />
+    <MESSAGE value="Glass fix" />
+    <MESSAGE value="Bamboo overhaul" />
+    <MESSAGE value="Random blocks" />
+    <MESSAGE value="More stone mostly" />
+    <MESSAGE value="Candles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Candles" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
