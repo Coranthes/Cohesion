@@ -4,20 +4,250 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="I. Don't. Know!">
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/dragon_egg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/prismarine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/prismarine.png.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/spore_blossom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/spore_blossom_base.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_saw.png.mcmeta" afterDir="false" />
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Hopefully fix version #">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_bottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_front_on.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_top.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_saw.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_saw.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/activator_rail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/activator_rail_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/allium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/ancient_debris_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/ancient_debris_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/andesite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/animated_texture_example.mcmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/animated_texture_example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/anvil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/anvil_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/azure_bluet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/beacon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/bedrock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/bee_nest_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/bee_nest_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/bee_nest_front_honey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/bee_nest_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/beehive_end.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/beehive_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/beehive_front_honey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/beehive_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/black_candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/black_candle_lit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/blast_furnace_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/blast_furnace_front_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/blast_furnace_front_on.png.mcmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/blast_furnace_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/blast_furnace_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/blue_candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/blue_candle_lit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/blue_orchid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/bricks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/brown_candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/brown_candle_lit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cactus_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cactus_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cactus_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cake_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cake_inner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cake_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cake_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/calcite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/candle_lit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cartography_table_side1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cartography_table_side2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cartography_table_side3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cartography_table_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cauldron_inner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cauldron_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cauldron_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/chain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/chipped_anvil_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/chiseled_deepslate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/chiseled_nether_bricks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/chiseled_polished_blackstone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/chiseled_quartz_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/chiseled_quartz_block_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/chiseled_red_sandstone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/chiseled_sandstone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/chiseled_stone_bricks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/coarse_dirt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cobblestone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cocoa_stage1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cocoa_stage2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_compost.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_ready.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/conduit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/copper_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cornflower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/crafting_table_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/crafting_table_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/crafting_table_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cut_copper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cut_red_sandstone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cut_sandstone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cyan_candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cyan_candle_lit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cyan_glazed_terracotta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/damaged_anvil_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dandelion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dark_prismarine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/deepslate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/deepslate_bricks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/deepslate_tiles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/detector_rail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/detector_rail_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/diamond_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/diorite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dirt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dirt_path_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dirt_path_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dragon_egg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dried_kelp_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dried_kelp_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dried_kelp_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/emerald_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/enchanting_table_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/enchanting_table_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/enchanting_table_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/end_portal_frame_eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/end_portal_frame_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/end_portal_frame_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/end_rod.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/end_stone_bricks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/exposed_copper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/exposed_cut_copper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/farmland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/farmland_moist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/fletching_table_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/fletching_table_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/fletching_table_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/furnace_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/furnace_front_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/furnace_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/furnace_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/glass_pane_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/glow_item_frame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/gold_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/granite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/grass_block_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/grass_block_side_overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/grass_block_snow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/grass_block_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/gravel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/gray_candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/gray_candle_lit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/green_candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/green_candle_lit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hay_block_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hay_block_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_inside.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_outside.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/iron_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/item_frame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/lantern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/lapis_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/lectern_base.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/lectern_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/lectern_sides.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/lectern_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/light_blue_candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/light_blue_candle_lit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/light_gray_candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/light_gray_candle_lit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/lilac_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/lilac_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/lily_of_the_valley.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/lime_candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/lime_candle_lit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/lodestone_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/lodestone_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/magenta_candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/magenta_candle_lit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/magenta_glazed_terracotta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/magma.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/melon_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/melon_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/mossy_stone_bricks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/mud_bricks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/mycelium_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/mycelium_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/nether_bricks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/netherite_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/note_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/observer_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/observer_back_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/observer_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/observer_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/observer_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/obsidian.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/orange_candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/orange_candle_lit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/orange_tulip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/oxidized_copper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/oxidized_cut_copper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/packed_mud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/pink_candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/pink_candle_lit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/pink_tulip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/podzol_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/podzol_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/polished_basalt_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/polished_blackstone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/polished_blackstone_bricks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/poppy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/powered_rail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/powered_rail_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/prismarine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/prismarine.png.mcmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/prismarine_bricks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/purple_candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/purple_candle_lit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/purpur_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/purpur_pillar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/purpur_pillar_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/quartz_bricks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/rail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/rail_corner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/red_candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/red_candle_lit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/red_nether_bricks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/red_tulip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/rooted_dirt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/rose_bush_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/rose_bush_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smithing_table_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smithing_table_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smithing_table_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smithing_table_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_front_on.png.mcmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/soul_lantern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/soul_torch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/spore_blossom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/spore_blossom_base.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/stone_bricks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_saw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_saw.png.mcmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/sunflower_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/sunflower_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/sunflower_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/sunflower_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/tall_grass_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/torch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/verdant_froglight_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/verdant_froglight_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/weathered_copper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/weathered_cut_copper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/white_candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/white_candle_lit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/white_tulip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/wither_rose.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/yellow_candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/yellow_candle_lit.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +255,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -404,7 +639,28 @@
       <option name="project" value="LOCAL" />
       <updated>1697597789880</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Items frames, hopper">
+      <created>1697600878118</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1697600878118</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Hopefully fix version #">
+      <created>1697602398381</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1697602398381</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Hopefully fix version #">
+      <created>1697602848891</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1697602848891</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -419,8 +675,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Froglight" />
-    <MESSAGE value="Mostly dirt" />
     <MESSAGE value="Furnace and hay block" />
     <MESSAGE value="Random stuff" />
     <MESSAGE value="Glass Fixes" />
@@ -444,7 +698,9 @@
     <MESSAGE value="Candles" />
     <MESSAGE value="torches and lanterns" />
     <MESSAGE value="I. Don't. Know!" />
-    <option name="LAST_COMMIT_MESSAGE" value="I. Don't. Know!" />
+    <MESSAGE value="Items frames, hopper" />
+    <MESSAGE value="Hopefully fix version #" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hopefully fix version #" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
