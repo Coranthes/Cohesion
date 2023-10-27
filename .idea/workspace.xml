@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="I. Don't. Know!">
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/dragon_egg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/prismarine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/prismarine.png.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/spore_blossom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/spore_blossom_base.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_saw.png.mcmeta" afterDir="false" />
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="oak">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_bottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_front_on.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_top.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_saw.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_saw.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -404,7 +397,35 @@
       <option name="project" value="LOCAL" />
       <updated>1697597789880</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Items frames, hopper">
+      <created>1697600878118</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1697600878118</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Hopefully fix version #">
+      <created>1697602398381</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1697602398381</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Hopefully fix version #">
+      <created>1697602848891</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1697602848891</updated>
+    </task>
+    <task id="LOCAL-00049" summary="oak">
+      <created>1698302929064</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1698302929064</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -419,9 +440,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Froglight" />
-    <MESSAGE value="Mostly dirt" />
-    <MESSAGE value="Furnace and hay block" />
     <MESSAGE value="Random stuff" />
     <MESSAGE value="Glass Fixes" />
     <MESSAGE value="Bamboo and deepslate" />
@@ -444,7 +462,10 @@
     <MESSAGE value="Candles" />
     <MESSAGE value="torches and lanterns" />
     <MESSAGE value="I. Don't. Know!" />
-    <option name="LAST_COMMIT_MESSAGE" value="I. Don't. Know!" />
+    <MESSAGE value="Items frames, hopper" />
+    <MESSAGE value="Hopefully fix version #" />
+    <MESSAGE value="oak" />
+    <option name="LAST_COMMIT_MESSAGE" value="oak" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
