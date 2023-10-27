@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="I. Don't. Know!">
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/dragon_egg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/prismarine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/prismarine.png.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/spore_blossom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/spore_blossom_base.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_saw.png.mcmeta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_bottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_front_on.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smoker_top.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_saw.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_saw.png" afterDir="false" />
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Needs changing">
+      <change beforePath="$PROJECT_DIR$/pack.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/pack.mcmeta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -419,7 +407,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Froglight" />
     <MESSAGE value="Mostly dirt" />
     <MESSAGE value="Furnace and hay block" />
     <MESSAGE value="Random stuff" />
@@ -444,7 +431,8 @@
     <MESSAGE value="Candles" />
     <MESSAGE value="torches and lanterns" />
     <MESSAGE value="I. Don't. Know!" />
-    <option name="LAST_COMMIT_MESSAGE" value="I. Don't. Know!" />
+    <MESSAGE value="Needs changing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Needs changing" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
