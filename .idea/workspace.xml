@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="oak">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Door items pt one" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,13 +79,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00001" summary="New graphics">
-      <created>1651006171519</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1651006171519</updated>
     </task>
     <task id="LOCAL-00002" summary="planks">
       <created>1651287887017</created>
@@ -425,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698302929064</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Door items pt one">
+      <created>1698959801506</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1698959801506</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -440,7 +438,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Random stuff" />
     <MESSAGE value="Glass Fixes" />
     <MESSAGE value="Bamboo and deepslate" />
     <MESSAGE value="lodestone and smoker" />
@@ -465,7 +462,8 @@
     <MESSAGE value="Items frames, hopper" />
     <MESSAGE value="Hopefully fix version #" />
     <MESSAGE value="oak" />
-    <option name="LAST_COMMIT_MESSAGE" value="oak" />
+    <MESSAGE value="Door items pt one" />
+    <option name="LAST_COMMIT_MESSAGE" value="Door items pt one" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
