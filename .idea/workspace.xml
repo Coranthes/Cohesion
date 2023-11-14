@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Ancient &amp; Amethyst">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Potential texture changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,13 +79,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00015" summary="emerald">
-      <created>1696487293916</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1696487293916</updated>
     </task>
     <task id="LOCAL-00016" summary="Villager tables">
       <created>1696554665620</created>
@@ -425,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699925882888</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Potential texture changes">
+      <created>1699997794999</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1699997795000</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -440,7 +438,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dirt and stone stuff" />
     <MESSAGE value="It's a cake!" />
     <MESSAGE value="Small cartography table fix" />
     <MESSAGE value="Glass fix" />
@@ -465,7 +462,8 @@
     <MESSAGE value="Dyes" />
     <MESSAGE value="Remaining Dye" />
     <MESSAGE value="Ancient &amp; Amethyst" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ancient &amp; Amethyst" />
+    <MESSAGE value="Potential texture changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Potential texture changes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
