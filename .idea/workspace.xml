@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Emeralds and stone cutter that may need fixing later">
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Remaining Dye">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_saw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/stonecutter_saw.png.mcmeta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,62 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00006" summary="warped and crimson wood">
-      <created>1696207733627</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1696207733627</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Various wood logs">
-      <created>1696222364329</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1696222364329</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Crafting table">
-      <created>1696291952077</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1696291952077</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Villager POI blocks">
-      <created>1696301837680</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1696301837680</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Bee stuff">
-      <created>1696389273858</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1696389273858</updated>
-    </task>
-    <task id="LOCAL-00011" summary="More cherry?">
-      <created>1696455150938</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1696455150938</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Flowers so far">
-      <created>1696465952829</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1696465952829</updated>
-    </task>
-    <task id="LOCAL-00013" summary="oxidized copper">
-      <created>1696478340610</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1696478340610</updated>
     </task>
     <task id="LOCAL-00014" summary="More copper">
       <created>1696483960662</created>
@@ -427,7 +369,63 @@
       <option name="project" value="LOCAL" />
       <updated>1699239085074</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Restore files">
+      <created>1699240277763</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1699240277763</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Gems and stuff">
+      <created>1699315382546</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1699315382546</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Diamond Armor">
+      <created>1699317305312</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1699317305312</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Random things">
+      <created>1699755470215</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1699755470215</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Dyes">
+      <created>1699840454990</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1699840454990</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Dyes">
+      <created>1699841993168</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1699841993169</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Remaining Dye">
+      <created>1699848334904</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1699848334905</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Remaining Dye">
+      <created>1699848343916</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1699848343916</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -442,12 +440,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Blackstone" />
-    <MESSAGE value="magma test" />
-    <MESSAGE value="rails" />
-    <MESSAGE value="debris and bamboo" />
-    <MESSAGE value="cactus and beacon" />
-    <MESSAGE value="Anvil and composter" />
     <MESSAGE value="Chiseled stuff and dried kelp" />
     <MESSAGE value="Dirt and stone stuff" />
     <MESSAGE value="It's a cake!" />
@@ -467,7 +459,13 @@
     <MESSAGE value="Dark oak doors" />
     <MESSAGE value="Chiseled" />
     <MESSAGE value="Emeralds and stone cutter that may need fixing later" />
-    <option name="LAST_COMMIT_MESSAGE" value="Emeralds and stone cutter that may need fixing later" />
+    <MESSAGE value="Restore files" />
+    <MESSAGE value="Gems and stuff" />
+    <MESSAGE value="Diamond Armor" />
+    <MESSAGE value="Random things" />
+    <MESSAGE value="Dyes" />
+    <MESSAGE value="Remaining Dye" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remaining Dye" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
