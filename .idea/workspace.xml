@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Remaining Dye">
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Ancient &amp; Amethyst">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,13 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00014" summary="More copper">
-      <created>1696483960662</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1696483960662</updated>
     </task>
     <task id="LOCAL-00015" summary="emerald">
       <created>1696487293916</created>
@@ -425,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699848343916</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Ancient &amp; Amethyst">
+      <created>1699925882887</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1699925882888</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -440,7 +440,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chiseled stuff and dried kelp" />
     <MESSAGE value="Dirt and stone stuff" />
     <MESSAGE value="It's a cake!" />
     <MESSAGE value="Small cartography table fix" />
@@ -465,7 +464,8 @@
     <MESSAGE value="Random things" />
     <MESSAGE value="Dyes" />
     <MESSAGE value="Remaining Dye" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remaining Dye" />
+    <MESSAGE value="Ancient &amp; Amethyst" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ancient &amp; Amethyst" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
