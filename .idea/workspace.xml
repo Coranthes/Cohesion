@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Remove irrelevant blocks">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Diamond tools">
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/item/diamond_axe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/item/diamond_hoe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/item/diamond_pickaxe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/item/diamond_shovel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minecraft/textures/item/diamond_sword.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,20 +85,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00004" summary="log tops">
-      <created>1651290867278</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1651290867278</updated>
-    </task>
-    <task id="LOCAL-00005" summary="wood planks">
-      <created>1696143588941</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1696143588941</updated>
     </task>
     <task id="LOCAL-00006" summary="warped and crimson wood">
       <created>1696207733627</created>
@@ -425,7 +415,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700002981970</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Remove irrelevant items">
+      <created>1700090071801</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1700090071801</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Diamond tools">
+      <created>1700091576812</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1700091576812</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -440,8 +444,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Bamboo and deepslate" />
-    <MESSAGE value="lodestone and smoker" />
     <MESSAGE value="Observer and some bricks" />
     <MESSAGE value="Blackstone" />
     <MESSAGE value="magma test" />
@@ -465,7 +467,9 @@
     <MESSAGE value="oak" />
     <MESSAGE value="Door items pt one" />
     <MESSAGE value="Remove irrelevant blocks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove irrelevant blocks" />
+    <MESSAGE value="Remove irrelevant items" />
+    <MESSAGE value="Diamond tools" />
+    <option name="LAST_COMMIT_MESSAGE" value="Diamond tools" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
