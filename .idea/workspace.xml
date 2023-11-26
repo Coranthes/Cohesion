@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Remove incorrect chest textures and fix">
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/entity/chest/normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/entity/chest/normal.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/entity/chest/oak_normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/entity/chest/oak_normal_left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/entity/chest/oak_normal_right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/entity/chest/oak_trapped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/entity/chest/oak_trapped_left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/entity/chest/oak_trapped_right.png" beforeDir="false" />
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="A few plants">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,13 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00004" summary="log tops">
-      <created>1651290867278</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1651290867278</updated>
     </task>
     <task id="LOCAL-00005" summary="wood planks">
       <created>1696143588941</created>
@@ -432,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700788297188</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="A few plants">
+      <created>1700871257263</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1700871257263</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -447,7 +441,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lodestone and smoker" />
     <MESSAGE value="Observer and some bricks" />
     <MESSAGE value="Blackstone" />
     <MESSAGE value="magma test" />
@@ -472,7 +465,8 @@
     <MESSAGE value="Door items pt one" />
     <MESSAGE value="Chests and stuff?" />
     <MESSAGE value="Remove incorrect chest textures and fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove incorrect chest textures and fix" />
+    <MESSAGE value="A few plants" />
+    <option name="LAST_COMMIT_MESSAGE" value="A few plants" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
