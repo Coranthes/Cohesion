@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Terracotta pt 1">
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Terracotta pt 2 and changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +45,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "jdk.selected.com.intellij.ui.dsl.builder.impl.RowImpl.sdk": "corretto-17",
-    "last_opened_file_path": "/home/josa/IdeaProjects/Cohesion",
+    "last_opened_file_path": "/home/josa/IdeaProjects/CoranthesAssets",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
+    "settings.editor.selected.configurable": "MTRecommendedPlugins"
   },
   "keyToStringList": {
     "jdk.preference.com.intellij.ui.dsl.builder.impl.RowImpl.sdk": [
@@ -93,13 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Villager tables">
-      <created>1696554665620</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1696554665620</updated>
     </task>
     <task id="LOCAL-00017" summary="Enchanting and fletching tables">
       <created>1696561066420</created>
@@ -437,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701476116947</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Terracotta pt 2 and changes">
+      <created>1701559318512</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1701559318512</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -452,7 +452,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="It's a cake!" />
     <MESSAGE value="Small cartography table fix" />
     <MESSAGE value="Glass fix" />
     <MESSAGE value="Bamboo overhaul" />
@@ -477,7 +476,8 @@
     <MESSAGE value="Remove more stuff" />
     <MESSAGE value="Acacia and amethyst" />
     <MESSAGE value="Terracotta pt 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Terracotta pt 1" />
+    <MESSAGE value="Terracotta pt 2 and changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terracotta pt 2 and changes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
