@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Better diamond sword">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Golden sword change" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,13 +91,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Mostly dirt">
-      <created>1696725824198</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1696725824198</updated>
     </task>
     <task id="LOCAL-00023" summary="Furnace and hay block">
       <created>1696734208744</created>
@@ -437,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702592204068</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Golden sword change">
+      <created>1702595250356</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1702595250356</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -452,7 +450,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Candles" />
     <MESSAGE value="torches and lanterns" />
     <MESSAGE value="I. Don't. Know!" />
     <MESSAGE value="Items frames, hopper" />
@@ -477,7 +474,8 @@
     <MESSAGE value="Maybe?  Maybe not?" />
     <MESSAGE value="Iron tools" />
     <MESSAGE value="Better diamond sword" />
-    <option name="LAST_COMMIT_MESSAGE" value="Better diamond sword" />
+    <MESSAGE value="Golden sword change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Golden sword change" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
