@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Golden sword change" />
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Diamond tools">
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/crimson_trapdoor.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/crimson_trapdoor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dark_oak_trapdoor.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/dark_oak_trapdoor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/spruce_trapdoor.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/spruce_trapdoor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/warped_trapdoor.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/warped_trapdoor.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Tree-Stuff" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -91,27 +96,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Furnace and hay block">
-      <created>1696734208744</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1696734208744</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Random stuff">
-      <created>1696810363082</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1696810363082</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Glass Fixes">
-      <created>1696810381604</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1696810381604</updated>
     </task>
     <task id="LOCAL-00026" summary="Bamboo and deepslate">
       <created>1696818103370</created>
@@ -435,7 +419,28 @@
       <option name="project" value="LOCAL" />
       <updated>1702595250356</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Iron tools">
+      <created>1702596109722</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1702596109722</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Gold tool changes">
+      <created>1702596292150</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1702596292150</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Diamond tools">
+      <created>1702597268569</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1702597268569</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -450,8 +455,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="torches and lanterns" />
-    <MESSAGE value="I. Don't. Know!" />
     <MESSAGE value="Items frames, hopper" />
     <MESSAGE value="Hopefully fix version #" />
     <MESSAGE value="oak" />
@@ -472,10 +475,12 @@
     <MESSAGE value="small stuff" />
     <MESSAGE value="clouds" />
     <MESSAGE value="Maybe?  Maybe not?" />
-    <MESSAGE value="Iron tools" />
     <MESSAGE value="Better diamond sword" />
     <MESSAGE value="Golden sword change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Golden sword change" />
+    <MESSAGE value="Iron tools" />
+    <MESSAGE value="Gold tool changes" />
+    <MESSAGE value="Diamond tools" />
+    <option name="LAST_COMMIT_MESSAGE" value="Diamond tools" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
