@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Trapdoors pt 1">
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/bamboo_trapdoor.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/bamboo_trapdoor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/cherry_trapdoor.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/cherry_trapdoor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/jungle_trapdoor.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/block/jungle_trapdoor.png" afterDir="false" />
-    </list>
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Trapdoors pt 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
