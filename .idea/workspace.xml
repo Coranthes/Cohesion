@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Trapdoors pt 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Buckets" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,13 +91,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Observer and some bricks">
-      <created>1697155043031</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1697155043031</updated>
     </task>
     <task id="LOCAL-00029" summary="Blackstone">
       <created>1697169348577</created>
@@ -437,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702684947516</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Buckets">
+      <created>1705207722935</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1705207722935</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -452,7 +450,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="oak" />
     <MESSAGE value="Door items pt one" />
     <MESSAGE value="Chests and stuff?" />
     <MESSAGE value="Remove incorrect chest textures and fix" />
@@ -477,7 +474,8 @@
     <MESSAGE value="Diamond tools" />
     <MESSAGE value="Trapdoors pt 1" />
     <MESSAGE value="Trapdoors pt 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trapdoors pt 3" />
+    <MESSAGE value="Buckets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Buckets" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
