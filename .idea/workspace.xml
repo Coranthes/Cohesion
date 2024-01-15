@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Buckets" />
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="More foods" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,13 +91,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Blackstone">
-      <created>1697169348577</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1697169348577</updated>
     </task>
     <task id="LOCAL-00030" summary="magma test">
       <created>1697227998550</created>
@@ -435,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705207722935</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="More foods">
+      <created>1705269873338</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1705269873338</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -450,7 +450,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Door items pt one" />
     <MESSAGE value="Chests and stuff?" />
     <MESSAGE value="Remove incorrect chest textures and fix" />
     <MESSAGE value="A few plants" />
@@ -475,7 +474,8 @@
     <MESSAGE value="Trapdoors pt 1" />
     <MESSAGE value="Trapdoors pt 3" />
     <MESSAGE value="Buckets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Buckets" />
+    <MESSAGE value="More foods" />
+    <option name="LAST_COMMIT_MESSAGE" value="More foods" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
