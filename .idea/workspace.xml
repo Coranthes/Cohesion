@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="More foods" />
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Even more foods">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,13 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00032" summary="debris and bamboo">
-      <created>1697260870233</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1697260870233</updated>
     </task>
     <task id="LOCAL-00033" summary="cactus and beacon">
       <created>1697265105353</created>
@@ -435,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705443847997</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Even more foods">
+      <created>1705621554330</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1705621554330</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -450,7 +452,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chests and stuff?" />
     <MESSAGE value="Remove incorrect chest textures and fix" />
     <MESSAGE value="A few plants" />
     <MESSAGE value="Farmland" />
@@ -475,7 +476,8 @@
     <MESSAGE value="Trapdoors pt 3" />
     <MESSAGE value="Buckets" />
     <MESSAGE value="More foods" />
-    <option name="LAST_COMMIT_MESSAGE" value="More foods" />
+    <MESSAGE value="Even more foods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Even more foods" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
