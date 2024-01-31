@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="foods">
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="revisions and update 10?">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,13 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Chiseled stuff and dried kelp">
-      <created>1697400402930</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1697400402930</updated>
     </task>
     <task id="LOCAL-00036" summary="Dirt and stone stuff">
       <created>1697416587590</created>
@@ -437,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706128609653</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="revisions and update 10?">
+      <created>1706570797904</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1706570797904</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -452,7 +452,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="A few plants" />
     <MESSAGE value="Farmland" />
     <MESSAGE value="Mistakes were made" />
     <MESSAGE value="Restore doors" />
@@ -477,7 +476,8 @@
     <MESSAGE value="More foods" />
     <MESSAGE value="Even more foods" />
     <MESSAGE value="foods" />
-    <option name="LAST_COMMIT_MESSAGE" value="foods" />
+    <MESSAGE value="revisions and update 10?" />
+    <option name="LAST_COMMIT_MESSAGE" value="revisions and update 10?" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
