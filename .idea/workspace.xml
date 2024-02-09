@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Chiseled">
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="suspicious">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,20 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Bamboo overhaul">
-      <created>1697433359385</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1697433359385</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Random blocks">
-      <created>1697435536207</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1697435536207</updated>
     </task>
     <task id="LOCAL-00042" summary="More stone mostly">
       <created>1697502489152</created>
@@ -437,7 +423,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707080903856</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Chiseled finished">
+      <created>1707337158751</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1707337158752</updated>
+    </task>
+    <task id="LOCAL-00090" summary="suspicious">
+      <created>1707337873180</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1707337873180</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -452,8 +452,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Restore bamboo and azalea" />
-    <MESSAGE value="Restore more wood stuff" />
     <MESSAGE value="Remove more stuff" />
     <MESSAGE value="Acacia and amethyst" />
     <MESSAGE value="Terracotta pt 1" />
@@ -477,7 +475,9 @@
     <MESSAGE value="End thing" />
     <MESSAGE value="Sugar" />
     <MESSAGE value="Chiseled" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chiseled" />
+    <MESSAGE value="Chiseled finished" />
+    <MESSAGE value="suspicious" />
+    <option name="LAST_COMMIT_MESSAGE" value="suspicious" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
