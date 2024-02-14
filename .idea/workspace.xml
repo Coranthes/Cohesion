@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="bone blocks" />
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="bone" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,13 +91,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00045" summary="I. Don't. Know!">
-      <created>1697597789880</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1697597789880</updated>
     </task>
     <task id="LOCAL-00046" summary="Items frames, hopper">
       <created>1697600878118</created>
@@ -435,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707678280418</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="bone">
+      <created>1707679291158</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1707679291158</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -450,7 +450,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Terracotta pt 2 and changes" />
     <MESSAGE value="small stuff" />
     <MESSAGE value="clouds" />
     <MESSAGE value="Maybe?  Maybe not?" />
@@ -475,7 +474,8 @@
     <MESSAGE value="sugar" />
     <MESSAGE value="seeds and fix" />
     <MESSAGE value="bone blocks" />
-    <option name="LAST_COMMIT_MESSAGE" value="bone blocks" />
+    <MESSAGE value="bone" />
+    <option name="LAST_COMMIT_MESSAGE" value="bone" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
