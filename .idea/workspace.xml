@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Couple random items" />
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Daylight detector-incomplete">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,20 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Hopefully fix version #">
-      <created>1697602848891</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1697602848891</updated>
-    </task>
-    <task id="LOCAL-00049" summary="oak">
-      <created>1698302929064</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1698302929064</updated>
     </task>
     <task id="LOCAL-00050" summary="Door items pt one">
       <created>1698959801506</created>
@@ -435,7 +423,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711304921887</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Notes">
+      <created>1712097548601</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1712097548601</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Daylight detector-incomplete">
+      <created>1712098005179</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1712098005179</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -450,8 +452,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Maybe?  Maybe not?" />
-    <MESSAGE value="Better diamond sword" />
     <MESSAGE value="Golden sword change" />
     <MESSAGE value="Iron tools" />
     <MESSAGE value="Gold tool changes" />
@@ -475,7 +475,9 @@
     <MESSAGE value="bone" />
     <MESSAGE value="End beam" />
     <MESSAGE value="Couple random items" />
-    <option name="LAST_COMMIT_MESSAGE" value="Couple random items" />
+    <MESSAGE value="Notes" />
+    <MESSAGE value="Daylight detector-incomplete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Daylight detector-incomplete" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
