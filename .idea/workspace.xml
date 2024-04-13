@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="It's a shell" />
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Lantern blocks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,13 +91,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Chests and stuff?">
-      <created>1700787810111</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1700787810111</updated>
     </task>
     <task id="LOCAL-00052" summary="Remove incorrect chest textures and fix">
       <created>1700788297188</created>
@@ -435,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712100027393</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Lantern blocks">
+      <created>1712969018755</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1712969018756</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -450,7 +450,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Iron tools" />
     <MESSAGE value="Gold tool changes" />
     <MESSAGE value="Diamond tools" />
     <MESSAGE value="Trapdoors pt 1" />
@@ -475,7 +474,8 @@
     <MESSAGE value="Notes" />
     <MESSAGE value="Daylight detector-incomplete" />
     <MESSAGE value="It's a shell" />
-    <option name="LAST_COMMIT_MESSAGE" value="It's a shell" />
+    <MESSAGE value="Lantern blocks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lantern blocks" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
