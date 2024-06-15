@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="It's a pearl">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f8d30a23-2540-47c9-8be6-7a76cef1f3c6" name="Changes" comment="Amethyst" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,13 +91,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651001066486</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Restore doors">
-      <created>1700967178480</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1700967178480</updated>
     </task>
     <task id="LOCAL-00057" summary="Restore acacia">
       <created>1700967275237</created>
@@ -437,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714616647262</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Amethyst">
+      <created>1714618370515</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1714618370515</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -452,7 +450,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Buckets" />
     <MESSAGE value="More foods" />
     <MESSAGE value="Even more foods" />
     <MESSAGE value="foods" />
@@ -477,7 +474,8 @@
     <MESSAGE value="lantern items" />
     <MESSAGE value="stone tool stuffs" />
     <MESSAGE value="It's a pearl" />
-    <option name="LAST_COMMIT_MESSAGE" value="It's a pearl" />
+    <MESSAGE value="Amethyst" />
+    <option name="LAST_COMMIT_MESSAGE" value="Amethyst" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
